@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "241119-010347-esp32dev",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"random": "cpp",
+			"iterator": "cpp"
+		}
+	}
+}

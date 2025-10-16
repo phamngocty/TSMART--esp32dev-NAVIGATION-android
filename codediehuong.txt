@@ -1,0 +1,85 @@
+0x1838D0C1 đi thẳng1 406376641
+0x4F2A99FC	đi thẳng   1328191996
+
+
+0x841E0597 rẻ trái 11h  2216560023 
+0x45A19046 rẻ phải 3h   1168216134
+0xDA7888B5 rẻ phải 2h 
+0xAEA0378C rẻ phải 5h   2929735564
+0x28620A08 rẻ trái 9h   677513736
+0x80441331 rẻ trái 7h   2151945009
+0xCE33A78 vòng ngược lại  216218232
+
+0x51A40BC1 vòng xoay đi thẳng 1369705409
+
+0x9AE6E5DC  ra vòng xoay đi thẳng        2598823388
+0xC9E599FA vòng xoay lối ra 3h rẻ phải   3387267578
+0x7EB4237A vòng xoay lối ra 5h rẻ phải   2125734778
+0x26164102 vòng xoay lối ra 2h bên phải  638992642 
+0xE84DE860 vòng xoay lối ra 9h rẻ trái   3897419872
+0x51C03AB0 vòng xoay lối ra 7h bên trái  1371552432
+0xC656C5E1 vòng xoay lối ra 11h bên trái 3327575521
+
+0x613B3384 vòng xoay lối ra 6h vòng lại  1631269764
+
+
+0x9D7DCE38 end 1501730744
+
+
+
+//myOLED.drawBitmap(CENTER, 25, bitmap_16_dithang1, 16, 16);
+
+      bitmap_16_dithang1 = 406376641
+	bitmap_16_end = 
+
+	bitmap_16_end2 = 1501730744
+	bitmap_16_n11h = 
+	bitmap_16_n2h = 
+	bitmap_16_rakhoivx = 2598823388
+	bitmap_16_rephai2h = 
+	bitmap_16_rephai5h = 2929735564
+	bitmap_16_retrai11h = 2216560023 
+	bitmap_16_retrai3h = 1168216134
+	bitmap_16_retrai7h = 2151945009
+	bitmap_16_retrai9h = 677513736
+	bitmap_16_vongngoclai = 216218232
+	bitmap_16_vongxoay11h = 3327575521
+	bitmap_16_vongxoay2h = 638992642 
+	bitmap_16_vongxoay3h = 3387267578
+	bitmap_16_vongxoay5h = 2125734778
+	bitmap_16_vongxoay7h = 1371552432
+	bitmap_16_vongxoay9h = 3897419872
+	bitmap_16_vongxoayvonglai = 1631269764
+	bitmap_16_vx12h = 1369705409
+
+ myOLED.drawBitmap(CENTER, 30, const_cast<uint8_t*>(bitmap), 16, 16);
+
+
+
+VỚI b nhận được b = 406376641
+ tôi muốn khi nhận giá trị b = 406376641 thì code xẽ hiện thị
+myOLED.drawBitmap(CENTER, 25, bitmap_16_dithang1, 16, 16);
+
+và với các giá trị b nhận được code xe gọi hình ảnh hiển thị tương ứng
+ đây là danh sách bitmap_16_dithang1 = 406376641
+	bitmap_16_end = 
+
+	bitmap_16_end2 = 1501730744
+	bitmap_16_n11h = 
+	bitmap_16_n2h = 3534103754    n
+	bitmap_16_rakhoivx = 2598823388
+	bitmap_16_rephai2h = 
+	bitmap_16_rephai5h = 2929735564
+	bitmap_16_retrai11h = 2216560023 
+	bitmap_16_retrai3h = 1168216134
+	bitmap_16_retrai7h = 2151945009
+	bitmap_16_retrai9h = 677513736
+	bitmap_16_vongngoclai = 216218232
+	bitmap_16_vongxoay11h = 3327575521
+	bitmap_16_vongxoay2h = 638992642 
+	bitmap_16_vongxoay3h = 3387267578
+	bitmap_16_vongxoay5h = 2125734778
+	bitmap_16_vongxoay7h = 1371552432
+	bitmap_16_vongxoay9h = 3897419872
+	bitmap_16_vongxoayvonglai = 1631269764
+	bitmap_16_vx12h = 1369705409
